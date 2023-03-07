@@ -24,3 +24,5 @@
     <img align="middle" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="middle" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
+
+![Snake animation](https://github.com/estarlino/estarlino/blob/output/github-contribution-grid-snake.svg)
