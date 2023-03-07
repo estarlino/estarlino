@@ -4,8 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_v_e_v)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.estarlino.vidal@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estarlino&hide_progress=true_icons=true&theme=dark)](https://github.com/estarlino/github-readme-stats)
 ![Estarlino GitHub stats](https://github-readme-stats.vercel.app/api?username=estarlino&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo
 
