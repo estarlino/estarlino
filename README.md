@@ -1,4 +1,4 @@
-### Olá, eu me chamo João Vitor Estarlino 🖖
+### Hello, my name is João Vitor Estarlino 🖖
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-estarlino-vidal-89818b1b2)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_v_e_v)
@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estarlino&hide_progress=true_icons=true&theme=dark)](https://github.com/estarlino/github-readme-stats)
 
-## Tecnologias que utilizo
+## Technologies I use
 
 <div style="display: inline_block"><br/>
     <img align="middle" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
